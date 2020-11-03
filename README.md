@@ -13,6 +13,8 @@ Data scientist trained at Udemy, Udacity, Coursera and Data Science Academy. Exp
 
 
 ## Projetos:
+* **
+
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
