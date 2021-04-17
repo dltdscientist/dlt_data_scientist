@@ -13,13 +13,8 @@ Data scientist trained at Udemy, Udacity, Coursera and Data Science Academy. Exp
 
 
 ## Projetos:
-* **
 
-Veja os tutoriais publicados do Sigmoidal:
-
-
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
+* **Teste de Degradação em Dataset sobre Vendas** https://bit.ly/2Ubr5SH
 * **Análise da Dados do Covid-19 em vários países**
 
 ---
