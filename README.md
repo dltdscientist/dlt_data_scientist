@@ -17,7 +17,7 @@ Data scientist trained at Udemy, Udacity, Coursera and Data Science Academy. Exp
 * **Teste de Degradação em Dataset sobre Vendas** https://github.com/dltdscientist/dlt_data_scientist/tree/main/teste_vendas
 * **Análise de Dados da Covid-19 em Vários Países**
 * **Evolução da Covid-19 no Estado de São Paulo**
-* **Classificação de Restaurantes**
+* **Classificação de Restaurantes** https://github.com/dltdscientist/dlt_data_scientist/tree/main/classificacao_restaurantes
 
 ---
 
