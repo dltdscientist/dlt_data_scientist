@@ -1,3 +1,3 @@
-Aplicação do teste de Degradação em dataset sobre vendas.
+Aplicação do teste de Degradação em Modelo de Machine Learning para Previsão de Vendas.
 O teste que aplicamos busca estimar por quanto tempo após treinado, um modelo de Machine Learning ficaria com a performance estável. Avaliamos as duas métricas: Erro Absoluto Médio (MAE) e Erro Quadrático Médio (MSE).
 O modelo desenvolvido foi o de Regressão Linear com o algorítmo Random Forest.
