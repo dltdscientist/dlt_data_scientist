@@ -1,0 +1,3 @@
+Neste projeto, vamos trabalhar com o conjunto de dados COVID19, publicado pela John Hopkins University, que consiste nos dados relativos ao número acumulado de casos confirmados, por dia, em cada país. 
+Além disso, temos outro conjunto de dados composto por vários fatores de vida, avaliados pelas pessoas que vivem em cada país ao redor do globo. 
+Vamos mesclar esses dois conjuntos de dados para ver se há alguma relação entre a propagação do vírus em um país e o quão feliz as pessoas são, vivendo naquele país.*
