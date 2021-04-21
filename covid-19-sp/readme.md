@@ -1,0 +1,1 @@
+Evolução do Número Total de Casos e Número Diário de Casos de Covid-19 no Estado de São Paulo.
